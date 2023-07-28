@@ -2,7 +2,7 @@
 Este proyecto es un auto tutorial para probar el modelo MVP. En el hay pruebas de conexión a slq usando using asi como la instancia de la clase Sqlconnection. Por otro lado, que pendiente el manejo correcto del llenado de un componente combobox desde la BD.
 Posterío a este proyecto, creare la versión optimizada del mismo y agregare el correcto llenado del combobox y una mejor versión de la BD y sus relaciones.
 
-# Instalcion
+# instalación 
 - Descargar código
 - Copiar script BD
 - Cambiar el string de connection Program.cs
